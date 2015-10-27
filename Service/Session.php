@@ -1,9 +1,9 @@
 <?php
 
-namespace Utopia;
+namespace Utopia\Service;
 
 
-class Session extends ServiceAbstract {
+class Session extends \Utopia\ServiceAbstract {
 
     protected $descriptor, $file;
 
