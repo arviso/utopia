@@ -1,9 +1,9 @@
 <?php
 
-    namespace Utopia;
+namespace Utopia;
 
 
-    abstract class ServiceAbstract {
+abstract class ServiceAbstract {
 
 
-    }
+}
